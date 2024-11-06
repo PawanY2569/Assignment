@@ -1,0 +1,3259 @@
+@media (max-width: 768px) {
+  html {
+    overflow-x: hidden !important; 
+  };  
+  body{
+    overflow-x: hidden !important;
+  };
+}
+
+{
+  .flex.flex-col.md\:flex-row.items-center.bg-white.p-8.rounded-lg.shadow-lg.space-y-8.md\:space-y-0.md\:space-x-12 {
+          background-color: lightyellow;
+  }
+  }
+html{
+
+  overflow-x: hidden !important; 
+}
+
+body {
+  overflow-x: hidden !important;
+    scrollbar-width: none; 
+    position: relative;
+  }
+  {
+    .flex.flex-col.md\:flex-row.items-center.bg-white.p-8.rounded-lg.shadow-lg.space-y-8.md\:space-y-0.md\:space-x-12 {
+            background-color: lightyellow;
+    }
+    }
+  img.w-5.h-5 {
+    width: 180px;
+    height: 42px;
+  }
+  ::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+  /* Assignment-2 */
+
+position: relative;
+width: 1922px;
+height: 2076px;
+
+background: #060606;
+
+{
+  .flex.flex-col.md\:flex-row.items-center.bg-white.p-8.rounded-lg.shadow-lg.space-y-8.md\:space-y-0.md\:space-x-12 {
+          background-color: lightyellow;
+  }
+  }
+img.w-5.h-5 {
+  width: 180px;
+  height: 42px;
+}
+/* Frame 14 */
+
+position: absolute;
+width: 1923px;
+height: 1751px;
+left: -1px;
+top: 712px;
+
+background: #FFFFFF;
+
+img.w-5.h-5 {
+  width: 180px;
+  height: 42px;
+}
+/* Group 1000001284 */
+
+position: absolute;
+width: 1925px;
+height: 1017px;
+left: 0px;
+top: 88px;
+
+{
+  .flex.flex-col.md\:flex-row.items-center.bg-white.p-8.rounded-lg.shadow-lg.space-y-8.md\:space-y-0.md\:space-x-12 {
+          background-color: lightyellow;
+  }
+  }
+
+/* Group 1000001285 */
+
+position: absolute;
+width: 1925px;
+height: 1017px;
+left: 0px;
+top: 88px;
+{
+  .flex.flex-col.md\:flex-row.items-center.bg-white.p-8.rounded-lg.shadow-lg.space-y-8.md\:space-y-0.md\:space-x-12 {
+          background-color: lightyellow;
+  }
+  }
+
+
+/* Group 1000001212 */
+
+position: absolute;
+width: 1925px;
+height: 71px;
+left: 0px;
+top: 88px;
+
+{
+  .flex.flex-col.md\:flex-row.items-center.bg-white.p-8.rounded-lg.shadow-lg.space-y-8.md\:space-y-0.md\:space-x-12 {
+          background-color: lightyellow;
+  }
+  }
+
+/* Group 1000001215 */
+
+position: absolute;
+width: 1925px;
+height: 71px;
+left: 0px;
+top: 88px;
+
+
+
+/* Services We Offer */
+
+position: absolute;
+width: 1925px;
+height: 71px;
+left: 0px;
+top: 88px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 50px;
+line-height: 141.4%;
+/* identical to box height, or 71px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 963px;
+height: 798px;
+left: 643.67px;
+top: 307px;
+
+border-radius: 20px;
+
+
+/* Group 1000001305 */
+
+position: absolute;
+width: 1223px;
+height: 97px;
+left: 348px;
+top: 89px;
+
+
+
+/* Services We Offer */
+
+position: absolute;
+width: 523px;
+height: 70px;
+left: 348px;
+top: 89px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 141.4%;
+/* or 71px */
+
+color: #000000;
+
+
+
+/* Services */
+
+position: absolute;
+visibility: hidden;
+width: 993.03px;
+height: 35px;
+left: 353px;
+top: 94px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 80px;
+line-height: 10px;
+/* or 13% */
+letter-spacing: 0.11em;
+
+opacity: 0.25;
+border: 4px solid #00FFA7;
+
+
+/* Discover the digital possibilities for your brand with our comprehensive suite of services. */
+
+position: absolute;
+width: 1150.2px;
+height: 33px;
+left: 350px;
+top: 153px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 141.4%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Group 1000001348 */
+
+position: absolute;
+width: 93px;
+height: 48px;
+left: 1478px;
+top: 125px;
+
+
+
+/* Button - right-button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 16.5px 14px;
+
+position: absolute;
+width: 48px;
+height: 48px;
+left: 1523px;
+top: calc(50% - 48px/2 - 726.5px);
+
+background: #FFFFFF;
+border: 2px solid #000000;
+box-shadow: 0px 14px 30px -4px rgba(206, 206, 206, 0.5);
+border-radius: 50px;
+
+
+/* SVG */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0.003px 0px 0.996001px;
+
+width: 20px;
+height: 15px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 20px;
+height: 14px;
+
+background: #131313;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 77.9%;
+right: 21.06%;
+top: 8.14%;
+bottom: 91.06%;
+
+background: #131313;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Frame 162884 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 293px;
+height: 402px;
+left: 660px;
+top: 206px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 355px;
+height: 499px;
+left: -3px;
+top: 0px;
+
+background: #00F0FF;
+opacity: 0.15;
+
+
+/* Line 120 */
+
+position: absolute;
+width: 345px;
+height: 0px;
+left: 0px;
+top: 57px;
+
+border: 2px solid #000000;
+transform: rotate(-0.17deg);
+
+
+/* Group 1000001349 */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 21px;
+top: 15px;
+
+
+
+/* Ellipse 4313 */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 21px;
+top: 15px;
+
+background: #000000;
+border-radius: 20px;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.6%;
+right: 86.35%;
+top: 6.22%;
+bottom: 91.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.24%;
+right: 86.35%;
+top: 4.98%;
+bottom: 90.3%;
+
+background: #FFFFFF;
+
+
+/* Join Development */
+
+position: absolute;
+width: 316px;
+height: 21px;
+left: -30px;
+top: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 141.4%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+
+
+/* BlockchainDevelopment */
+
+position: absolute;
+width: 293px;
+height: 48px;
+left: 0px;
+top: 101px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 105.4%;
+/* or 24px */
+text-align: center;
+
+color: #030303;
+
+
+
+/* Line 121 */
+
+position: absolute;
+width: 290px;
+height: 0px;
+left: 1px;
+top: 335px;
+
+border: 2px solid #000000;
+
+
+/* 4494868 1 */
+
+position: absolute;
+width: 265px;
+height: 177px;
+left: 18px;
+top: 169px;
+
+background: url(4494868);
+
+
+/* Group 1000001276 */
+
+position: absolute;
+width: 121px;
+height: 38.55px;
+left: 162px;
+top: 348.45px;
+
+
+
+/* Primary button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16.5px 14px;
+gap: 10px;
+
+position: absolute;
+width: 117.79px;
+height: 38.55px;
+left: 162px;
+top: 387px;
+
+background: #000000;
+box-shadow: 0px 14px 30px -4px rgba(206, 206, 206, 0.5);
+border-radius: 50px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Explore */
+
+position: absolute;
+width: 102.8px;
+height: 20.35px;
+left: 180.2px;
+top: 357.02px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 141.4%;
+/* or 20px */
+
+color: #FFFFFF;
+
+
+
+/* Group 1000001275 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 247.66px;
+top: 355.79px;
+
+
+
+/* Ellipse 437 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 247.66px;
+top: 355.79px;
+
+background: linear-gradient(270deg, #00FFA7 0%, #FFFF00 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 86.2%;
+right: 9.33%;
+top: 90.34%;
+bottom: 7.43%;
+
+background: #1E1E23;
+
+
+/* Frame 162885 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 293px;
+height: 402px;
+left: 972px;
+top: 206px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 355px;
+height: 499px;
+left: -3px;
+top: 0px;
+
+background: #FC5959;
+opacity: 0.15;
+
+
+/* Line 120 */
+
+position: absolute;
+width: 345px;
+height: 0px;
+left: 0px;
+top: 57px;
+
+border: 2px solid #000000;
+transform: rotate(-0.17deg);
+
+
+/* Group 1000001337 */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 21px;
+top: 15px;
+
+
+
+/* Ellipse 4313 */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 21px;
+top: 15px;
+
+background: #000000;
+border-radius: 20px;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.6%;
+right: 86.35%;
+top: 6.22%;
+bottom: 91.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.24%;
+right: 86.35%;
+top: 4.98%;
+bottom: 90.3%;
+
+background: #FFFFFF;
+
+
+/* Join Development */
+
+position: absolute;
+width: 316px;
+height: 21px;
+left: -30px;
+top: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 141.4%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Security AAS */
+
+position: absolute;
+width: 293px;
+height: 48px;
+left: 0px;
+top: 101px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 105.4%;
+/* or 24px */
+text-align: center;
+
+color: #030303;
+
+
+
+/* Group 1000001276 */
+
+position: absolute;
+width: 121px;
+height: 38.55px;
+left: 154px;
+top: 348.45px;
+
+
+
+/* Primary button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16.5px 14px;
+gap: 10px;
+
+position: absolute;
+width: 117.79px;
+height: 38.55px;
+left: 154px;
+top: 387px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, #FFFFFF 0.01%, #FFFFFF 100%);
+border: 2px solid #000000;
+box-shadow: 0px 4px 24px -1px #FFFFFF;
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Explore */
+
+position: absolute;
+width: 102.8px;
+height: 20.35px;
+left: 172.2px;
+top: 357.02px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 141.4%;
+/* or 20px */
+
+color: #000000;
+
+
+
+/* Group 1000001275 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 239.66px;
+top: 355.79px;
+
+
+
+/* Ellipse 437 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 239.66px;
+top: 355.79px;
+
+background: linear-gradient(270deg, #00FFA7 0%, #FFFF00 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 83.47%;
+right: 12.06%;
+top: 90.34%;
+bottom: 7.43%;
+
+background: #1E1E23;
+
+
+/* Line 121 */
+
+position: absolute;
+width: 290px;
+height: 0px;
+left: 1px;
+top: 335px;
+
+border: 2px solid #000000;
+
+
+/* 9646c1361705d0d16e 1 */
+
+position: absolute;
+width: 253px;
+height: 199px;
+left: 20px;
+top: 160px;
+
+background: url(9646c1361705d0d16e.png);
+
+
+/* Frame 162886 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 293px;
+height: 402px;
+left: 1284px;
+top: 206px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 355px;
+height: 499px;
+left: -3px;
+top: 0px;
+
+background: #2D45E6;
+opacity: 0.15;
+
+
+/* Line 120 */
+
+position: absolute;
+width: 345px;
+height: 0px;
+left: 0px;
+top: 57px;
+
+border: 2px solid #000000;
+transform: rotate(-0.17deg);
+
+
+/* Ellipse 4313 */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 21px;
+top: 15px;
+
+background: #000000;
+border-radius: 20px;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.6%;
+right: 86.35%;
+top: 6.22%;
+bottom: 91.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.24%;
+right: 86.35%;
+top: 4.98%;
+bottom: 90.3%;
+
+background: #FFFFFF;
+
+
+/* Join Development */
+
+position: absolute;
+width: 316px;
+height: 21px;
+left: -30px;
+top: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 141.4%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+
+
+/* MotionGraphic */
+
+position: absolute;
+width: 293px;
+height: 48px;
+left: 0px;
+top: 101px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 105.4%;
+/* or 24px */
+text-align: center;
+
+color: #030303;
+
+
+
+/* Group 1000001276 */
+
+position: absolute;
+width: 121px;
+height: 38.55px;
+left: 154px;
+top: 348.45px;
+
+
+
+/* Primary button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16.5px 14px;
+gap: 10px;
+
+position: absolute;
+width: 117.79px;
+height: 38.55px;
+left: 154px;
+top: 387px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, #FFFFFF 0.01%, #FFFFFF 100%);
+border: 2px solid #000000;
+box-shadow: 0px 4px 24px -1px #FFFFFF;
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Explore */
+
+position: absolute;
+width: 102.8px;
+height: 20.35px;
+left: 172.2px;
+top: 357.02px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 141.4%;
+/* or 20px */
+
+color: #000000;
+
+
+
+/* Group 1000001275 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 239.66px;
+top: 355.79px;
+
+
+
+/* Ellipse 437 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 239.66px;
+top: 355.79px;
+
+background: linear-gradient(270deg, #00FFA7 0%, #FFFF00 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 83.47%;
+right: 12.06%;
+top: 90.34%;
+bottom: 7.43%;
+
+background: #1E1E23;
+
+
+/* Line 121 */
+
+position: absolute;
+width: 290px;
+height: 0px;
+left: 1px;
+top: 335px;
+
+border: 2px solid #000000;
+
+
+/* 2895987 1 */
+
+position: absolute;
+width: 272px;
+height: 218px;
+left: 10px;
+top: 153px;
+
+background: url(2895987);
+
+
+/* Frame 162891 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 293px;
+height: 402px;
+left: 351px;
+top: 206px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 20px;
+
+
+/* Rectangle */
+
+position: absolute;
+width: 355px;
+height: 499px;
+left: -3px;
+top: 0px;
+
+background: #2BFF8A;
+opacity: 0.15;
+
+
+/* Line 120 */
+
+position: absolute;
+width: 345px;
+height: 0px;
+left: 0px;
+top: 57px;
+
+border: 2px solid #000000;
+transform: rotate(-0.17deg);
+
+
+/* Ellipse 4313 */
+
+position: absolute;
+width: 29px;
+height: 29px;
+left: 21px;
+top: 15px;
+
+background: #000000;
+border-radius: 20px;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.6%;
+right: 86.35%;
+top: 6.22%;
+bottom: 91.54%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.24%;
+right: 86.35%;
+top: 4.98%;
+bottom: 90.3%;
+
+background: #FFFFFF;
+
+
+/* Join Development */
+
+position: absolute;
+width: 316px;
+height: 21px;
+left: -30px;
+top: 19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 141.4%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Text */
+
+position: absolute;
+width: 293px;
+height: 24px;
+left: 0px;
+top: 101px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 800;
+font-size: 23px;
+line-height: 105.4%;
+/* or 24px */
+text-align: center;
+
+color: #030303;
+
+
+
+/* Line 121 */
+
+position: absolute;
+width: 290px;
+height: 0px;
+left: 1px;
+top: 335px;
+
+border: 2px solid #000000;
+
+
+/* design-prototyping-tool-web-mobile-apps 1 */
+
+position: absolute;
+width: 261px;
+height: 156px;
+left: 16px;
+top: 186px;
+
+background: url(design-prototyping-tool-web-mobile-apps);
+
+
+/* Group 1000001307 */
+
+position: absolute;
+width: 121px;
+height: 38.55px;
+left: 153px;
+top: 349px;
+
+
+
+/* Primary button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 16.5px 14px;
+gap: 10px;
+
+position: absolute;
+width: 117.79px;
+height: 38.55px;
+left: 153px;
+top: 387.55px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, #FFFFFF 0.01%, #FFFFFF 100%);
+border: 2px solid #000000;
+box-shadow: 0px 4px 24px -1px #FFFFFF;
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Explore */
+
+position: absolute;
+width: 102.8px;
+height: 20.35px;
+left: 171.2px;
+top: 357.57px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 141.4%;
+/* or 20px */
+
+color: #000000;
+
+
+
+/* Group 1000001275 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 238.66px;
+top: 356.34px;
+
+
+
+/* Ellipse 437 */
+
+position: absolute;
+width: 23.71px;
+height: 23.71px;
+left: 238.66px;
+top: 356.34px;
+
+background: linear-gradient(270deg, #00FFA7 0%, #FFFF00 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 83.13%;
+right: 12.41%;
+top: 90.47%;
+bottom: 7.29%;
+
+background: #1E1E23;
+
+
+/* BlockchainDevelopment */
+
+position: absolute;
+width: 293px;
+height: 48px;
+left: 0px;
+top: 101px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 23px;
+line-height: 105.4%;
+/* or 24px */
+text-align: center;
+
+color: #030303;
+
+
+
+/* Frame 163052 */
+
+position: absolute;
+width: 1220px;
+height: 373px;
+left: 351px;
+top: 654px;
+
+background: linear-gradient(223.39deg, #ADFFD3 20.89%, #99ECFE 54.78%, #8CC8FF 100%);
+border-radius: 23.3333px;
+
+
+/* Your Partner from an Idea to Growth fuelled by Innovation. */
+
+position: absolute;
+width: 621px;
+height: 100px;
+left: 544px;
+top: 64px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 38px;
+/* or 127% */
+
+color: #000000;
+
+
+
+/* Empowering your business with innovative software solutions and captivating design.From concept to creation, we bring your vision to life with expertise and precision. */
+
+position: absolute;
+width: 619px;
+height: 121px;
+left: 544px;
+top: 164px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 29px;
+/* or 181% */
+
+color: #000000;
+
+
+
+/* appstore */
+
+position: absolute;
+width: 191.06px;
+height: 54.88px;
+left: 544px;
+top: 282px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 44.59%;
+right: 39.75%;
+top: 75.6%;
+bottom: 9.68%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 188.94px;
+height: 52.81px;
+left: 545.06px;
+top: 283.04px;
+
+background: #000000;
+
+
+/* path16 */
+
+position: absolute;
+width: 191.06px;
+height: 54.88px;
+left: 544px;
+top: 336.89px;
+
+background: #A6A6A6;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 46.07%;
+right: 51.52%;
+top: 77.89%;
+bottom: 12.72%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.07%;
+right: 51.52%;
+top: 77.89%;
+bottom: 12.72%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 29.38px;
+height: 35px;
+left: 562.1px;
+top: 290.53px;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 49.62%;
+right: 41.13%;
+top: 82.23%;
+bottom: 11.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 15.9px;
+height: 18.26px;
+left: 605.37px;
+top: 306.97px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.08px;
+height: 18.8px;
+left: 623.78px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.08px;
+height: 18.8px;
+left: 639.4px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.68px;
+height: 18.8px;
+left: 658.26px;
+top: 306.7px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.27px;
+height: 16.72px;
+left: 671.65px;
+top: 308.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.3px;
+height: 13.73px;
+left: 681.63px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.27px;
+height: 13.44px;
+left: 697.47px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.07px;
+height: 13.71px;
+left: 706.16px;
+top: 311.77px;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 49.77%;
+right: 41.24%;
+top: 78.01%;
+bottom: 19.42%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 49.77%;
+right: 41.24%;
+top: 78.01%;
+bottom: 19.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 7.61px;
+height: 9.12px;
+left: 607.16px;
+top: 291.4px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.53px;
+height: 6.75px;
+left: 616.52px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 9.67px;
+height: 6.47px;
+left: 624.51px;
+top: 293.96px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.85px;
+height: 6.6px;
+left: 636.02px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 1.48px;
+height: 9.44px;
+left: 644.47px;
+top: 290.99px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.53px;
+height: 6.75px;
+left: 648.15px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.48px;
+height: 6.75px;
+left: 656.39px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.37px;
+height: 9.58px;
+left: 663.93px;
+top: 290.99px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.53px;
+height: 6.75px;
+left: 676.44px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.85px;
+height: 6.6px;
+left: 685.11px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.06px;
+height: 8.21px;
+left: 696.87px;
+top: 292.35px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.79px;
+height: 9.44px;
+left: 702.99px;
+top: 290.99px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.93px;
+height: 6.73px;
+left: 710.96px;
+top: 293.82px;
+
+background: #FFFFFF;
+
+
+/* googleplay */
+
+position: absolute;
+left: 61.39%;
+right: 22.95%;
+top: 90.39%;
+bottom: -5.13%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path14 */
+
+position: absolute;
+width: 191.06px;
+height: 54.96px;
+left: 749px;
+top: 337.17px;
+
+background: #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path16 */
+
+position: absolute;
+width: 191.06px;
+height: 54.96px;
+left: 749px;
+top: 337.17px;
+
+background: #A6A6A6;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g18 */
+
+position: absolute;
+left: 66.19%;
+right: 33.11%;
+top: 78.19%;
+bottom: 19.5%;
+
+
+
+/* path20 */
+
+position: absolute;
+width: 8.58px;
+height: 8.62px;
+left: 807.53px;
+top: 291.64px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g22 */
+
+position: absolute;
+left: 67.02%;
+right: 32.57%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path24 */
+
+position: absolute;
+width: 4.96px;
+height: 8.24px;
+left: 817.68px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g26 */
+
+position: absolute;
+left: 67.52%;
+right: 32%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path28 */
+
+position: absolute;
+width: 5.83px;
+height: 8.24px;
+left: 823.77px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g30 */
+
+position: absolute;
+left: 68.35%;
+right: 31.56%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path32 */
+
+position: absolute;
+width: 1.09px;
+height: 8.24px;
+left: 833.83px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g34 */
+
+position: absolute;
+left: 68.55%;
+right: 30.97%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path36 */
+
+position: absolute;
+width: 5.84px;
+height: 8.24px;
+left: 836.29px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g38 */
+
+position: absolute;
+left: 69.32%;
+right: 29.96%;
+top: 78.19%;
+bottom: 19.5%;
+
+
+
+/* path40 */
+
+position: absolute;
+width: 8.73px;
+height: 8.62px;
+left: 845.7px;
+top: 291.64px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g42 */
+
+position: absolute;
+left: 70.16%;
+right: 29.3%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path44 */
+
+position: absolute;
+width: 6.54px;
+height: 8.24px;
+left: 855.96px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* path46 */
+
+position: absolute;
+width: 119.99px;
+height: 23.4px;
+left: 807.08px;
+top: 329.02px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g48 */
+
+position: absolute;
+left: 62.55%;
+right: 35.95%;
+top: 87.64%;
+bottom: 3.12%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path64 */
+
+position: absolute;
+width: 18.3px;
+height: 34.44px;
+left: 763.11px;
+top: 326.91px;
+
+background: linear-gradient(207.28deg, #00A0FF 6.17%, #00A1FF 6.75%, #00BEFF 29.14%, #00D2FF 51.41%, #00DFFF 73.34%, #00E3FF 94.51%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g66 */
+
+position: absolute;
+left: 64.05%;
+right: 34.77%;
+top: 84.6%;
+bottom: 12.25%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path78 */
+
+position: absolute;
+width: 14.38px;
+height: 11.75px;
+left: 781.41px;
+top: 315.57px;
+
+background: linear-gradient(270deg, #FFE000 -7.59%, #FFBD00 89.72%, #FFA500 177.02%, #FF9C00 230.49%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g80 */
+
+position: absolute;
+left: 62.6%;
+right: 35.46%;
+top: 87.76%;
+bottom: 7.5%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path88 */
+
+position: absolute;
+width: 23.62px;
+height: 17.67px;
+left: 763.77px;
+top: 327.36px;
+
+background: linear-gradient(232.38deg, #FF3A44 59.07%, #C31162 213.09%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g90 */
+
+position: absolute;
+left: 62.6%;
+right: 35.46%;
+top: 83.03%;
+bottom: 12.24%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path104 */
+
+position: absolute;
+width: 23.62px;
+height: 17.67px;
+left: 763.77px;
+top: 309.69px;
+
+background: linear-gradient(127.61deg, #32A071 -77.71%, #2DA771 -73%, #15CF74 -44.95%, #06E775 -22.62%, #00F076 -8.92%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* phone-in-hand 1 */
+
+position: absolute;
+width: 425px;
+height: 397px;
+left: -9px;
+top: 17px;
+
+background: url(phone-in-hand);
+
+
+/* Footer-Community Platform For Creators Website */
+
+position: absolute;
+width: 1933px;
+height: 266px;
+left: -11px;
+top: 1810px;
+
+background: #030303;
+
+
+/* footer */
+
+position: absolute;
+width: 1150px;
+height: 149px;
+left: 435px;
+top: 68px;
+
+
+
+/* Line 119 */
+
+position: absolute;
+width: 1122.02px;
+height: 0px;
+left: 435px;
+top: 155px;
+
+border: 1px solid #5E5E5E;
+transform: rotate(0.36deg);
+
+
+/* © 2024 All Rights Reserved - Chaintech Network */
+
+position: absolute;
+width: 1122px;
+height: 25px;
+left: 463px;
+top: 192px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 25px;
+/* identical to box height, or 179% */
+text-align: center;
+
+color: #98A6AC;
+
+
+
+/* Group */
+
+position: absolute;
+left: 47.23%;
+right: 44.23%;
+top: 25.56%;
+bottom: 57.05%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 47.88%;
+right: 51.26%;
+top: 30.26%;
+bottom: 61.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.23%;
+right: 51.32%;
+top: 25.56%;
+bottom: 57.05%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48.96%;
+right: 50.1%;
+top: 31.36%;
+bottom: 61.45%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.09%;
+right: 49.68%;
+top: 28.44%;
+bottom: 70.03%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.11%;
+right: 49.7%;
+top: 31.36%;
+bottom: 61.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50.51%;
+right: 48.51%;
+top: 31.36%;
+bottom: 61.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 51.71%;
+right: 47.72%;
+top: 28.48%;
+bottom: 61.46%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.43%;
+right: 46.45%;
+top: 31.34%;
+bottom: 61.44%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 53.66%;
+right: 45.42%;
+top: 31.36%;
+bottom: 61.43%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.79%;
+right: 44.23%;
+top: 28.48%;
+bottom: 61.45%;
+
+background: #FFFFFF;
+
+
+/* Group 1000001346 */
+
+position: absolute;
+width: 1921px;
+height: 571.56px;
+left: 0px;
+top: 27.5px;
+
+
+
+/* Group 11 */
+
+position: absolute;
+width: 1004px;
+height: 46px;
+left: 565px;
+top: 31px;
+
+
+
+/* Company */
+
+position: absolute;
+width: 102px;
+height: 27px;
+left: 565px;
+top: 39px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #00FFA7;
+
+
+
+/* Services */
+
+position: absolute;
+width: 82px;
+height: 27px;
+left: 677px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(63, 76, 139, 0.2);
+
+
+/* Business Models */
+
+position: absolute;
+width: 178px;
+height: 33px;
+left: 774px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(41, 52, 111, 0.2);
+
+
+/* Blogs */
+
+position: absolute;
+width: 55px;
+height: 27px;
+left: 944px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(41, 52, 111, 0.2);
+
+
+/* Contact Us */
+
+position: absolute;
+width: 105px;
+height: 27px;
+left: 1013px;
+top: 40px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(41, 52, 111, 0.2);
+
+
+/* Group 1000003007 */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 1447px;
+top: 31px;
+
+
+
+/* Frame 163248 */
+
+position: absolute;
+width: 122px;
+height: 46px;
+left: 1447px;
+top: 31px;
+
+background: #C9F31D;
+border-radius: 200px;
+
+
+/* Sign Up */
+
+position: absolute;
+width: 122px;
+height: 17px;
+left: 0px;
+top: 13px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Login */
+
+position: absolute;
+width: 133px;
+height: 17px;
+left: 1332px;
+top: 44px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 1000001350 */
+
+position: absolute;
+width: 988px;
+height: 368.06px;
+left: 497px;
+top: 231px;
+
+
+
+/* TO */
+
+position: absolute;
+width: 794px;
+height: 35px;
+left: 502px;
+top: 351px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 120px;
+line-height: 10px;
+/* or 9% */
+letter-spacing: 0.11em;
+
+color: #FFFFFF;
+
+
+
+/* WELCOME */
+
+position: absolute;
+width: 794px;
+height: 35px;
+left: 603px;
+top: 231px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 900;
+font-size: 120px;
+line-height: 10px;
+/* or 9% */
+letter-spacing: 0.11em;
+
+color: #FFFFFF;
+
+
+
+/* CHAINTECH */
+
+position: absolute;
+width: 782px;
+height: 35px;
+left: 703px;
+top: 278px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 120px;
+line-height: 141.4%;
+/* or 170px */
+
+background: linear-gradient(270deg, #00FFA7 0%, #FFFF00 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+
+/* From square one to engineering excellence! PixelPlex assists in full-cycle software development, jumps in to take it over, or brings dedicated top-demanded skills. */
+
+position: absolute;
+width: 971px;
+height: 54px;
+left: 497px;
+top: 441px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 152.19%;
+/* or 27px */
+text-align: center;
+letter-spacing: 0.06em;
+
+color: #FFFFFF;
+
+
+
+/* Group 1000001307 */
+
+position: absolute;
+width: 211.97px;
+height: 66.06px;
+left: 864px;
+top: 533px;
+
+
+
+/* Primary button */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 211.97px;
+height: 66.06px;
+left: 864px;
+top: 599.06px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+box-shadow: 0px 4px 24px -1px #000000;
+backdrop-filter: blur(5px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 50px;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group 1000001275 */
+
+position: absolute;
+width: 31.17px;
+height: 31.17px;
+left: 161px;
+top: 17.38px;
+
+
+
+/* Ellipse 437 */
+
+position: absolute;
+width: 31.17px;
+height: 31.17px;
+left: 161px;
+top: 17.38px;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 78.99%;
+right: 12.89%;
+top: 42.18%;
+bottom: 39.49%;
+
+background: #FFFFFF;
+
+
+/* Get Started */
+
+position: absolute;
+width: 185px;
+height: 34.86px;
+left: 889.29px;
+top: 554.19px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 141.4%;
+/* or 25px */
+
+color: #000000;
+
+
+
+/* Line 2 */
+
+position: absolute;
+width: 1921px;
+height: 0px;
+left: 1921px;
+top: 98px;
+
+border: 0.945833px solid #1F1F1F;
+transform: rotate(180deg);
+
+
+/* Group */
+
+position: absolute;
+left: 18.11%;
+right: 73.31%;
+top: 1.32%;
+bottom: 96.34%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 18.76%;
+right: 80.38%;
+top: 1.96%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.11%;
+right: 80.44%;
+top: 1.32%;
+bottom: 96.34%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 19.84%;
+right: 79.21%;
+top: 2.1%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.98%;
+right: 78.79%;
+top: 1.71%;
+bottom: 98.08%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21%;
+right: 78.81%;
+top: 2.1%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 21.4%;
+right: 77.61%;
+top: 2.1%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.61%;
+right: 76.82%;
+top: 1.72%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 23.34%;
+right: 75.54%;
+top: 2.1%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.57%;
+right: 74.51%;
+top: 2.1%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.71%;
+right: 73.31%;
+top: 1.72%;
+bottom: 96.93%;
+
+background: #FFFFFF;
+/* Frame 163052 */
+
+position: absolute;
+width: 1220px;
+height: 373px;
+left: 351px;
+top: 654px;
+
+background: linear-gradient(223.39deg, #ADFFD3 20.89%, #99ECFE 54.78%, #8CC8FF 100%);
+border-radius: 23.3333px;
+
+
+/* Your Partner from an Idea to Growth fuelled by Innovation. */
+
+position: absolute;
+width: 621px;
+height: 100px;
+left: 544px;
+top: 64px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 38px;
+/* or 127% */
+
+color: #000000;
+
+
+
+/* Empowering your business with innovative software solutions and captivating design.From concept to creation, we bring your vision to life with expertise and precision. */
+
+position: absolute;
+width: 619px;
+height: 121px;
+left: 544px;
+top: 164px;
+
+font-family: 'Mont';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 29px;
+/* or 181% */
+
+color: #000000;
+
+
+
+/* appstore */
+
+position: absolute;
+width: 191.06px;
+height: 54.88px;
+left: 544px;
+top: 282px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 44.59%;
+right: 39.75%;
+top: 75.6%;
+bottom: 9.68%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 188.94px;
+height: 52.81px;
+left: 545.06px;
+top: 283.04px;
+
+background: #000000;
+
+
+/* path16 */
+
+position: absolute;
+width: 191.06px;
+height: 54.88px;
+left: 544px;
+top: 336.89px;
+
+background: #A6A6A6;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Group */
+
+position: absolute;
+left: 46.07%;
+right: 51.52%;
+top: 77.89%;
+bottom: 12.72%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 46.07%;
+right: 51.52%;
+top: 77.89%;
+bottom: 12.72%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 29.38px;
+height: 35px;
+left: 562.1px;
+top: 290.53px;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 49.62%;
+right: 41.13%;
+top: 82.23%;
+bottom: 11.37%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 15.9px;
+height: 18.26px;
+left: 605.37px;
+top: 306.97px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.08px;
+height: 18.8px;
+left: 623.78px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.08px;
+height: 18.8px;
+left: 639.4px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 11.68px;
+height: 18.8px;
+left: 658.26px;
+top: 306.7px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 8.27px;
+height: 16.72px;
+left: 671.65px;
+top: 308.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 13.3px;
+height: 13.73px;
+left: 681.63px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 7.27px;
+height: 13.44px;
+left: 697.47px;
+top: 311.79px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 12.07px;
+height: 13.71px;
+left: 706.16px;
+top: 311.77px;
+
+background: #FFFFFF;
+
+
+/* Group */
+
+position: absolute;
+left: 49.77%;
+right: 41.24%;
+top: 78.01%;
+bottom: 19.42%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 49.77%;
+right: 41.24%;
+top: 78.01%;
+bottom: 19.42%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 7.61px;
+height: 9.12px;
+left: 607.16px;
+top: 291.4px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.53px;
+height: 6.75px;
+left: 616.52px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 9.67px;
+height: 6.47px;
+left: 624.51px;
+top: 293.96px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.85px;
+height: 6.6px;
+left: 636.02px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 1.48px;
+height: 9.44px;
+left: 644.47px;
+top: 290.99px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.53px;
+height: 6.75px;
+left: 648.15px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.48px;
+height: 6.75px;
+left: 656.39px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+img.w-5.h-5 {
+  width: 180px;
+  height: 42px;
+}
+
+/* Vector */
+
+position: absolute;
+width: 6.37px;
+height: 9.58px;
+left: 663.93px;
+top: 290.99px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 6.53px;
+height: 6.75px;
+left: 676.44px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.85px;
+height: 6.6px;
+left: 685.11px;
+top: 293.83px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 4.06px;
+height: 8.21px;
+left: 696.87px;
+top: 292.35px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.79px;
+height: 9.44px;
+left: 702.99px;
+top: 290.99px;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+width: 5.93px;
+height: 6.73px;
+left: 710.96px;
+top: 293.82px;
+
+background: #FFFFFF;
+
+
+/* googleplay */
+
+position: absolute;
+left: 61.39%;
+right: 22.95%;
+top: 90.39%;
+bottom: -5.13%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path14 */
+
+position: absolute;
+width: 191.06px;
+height: 54.96px;
+left: 749px;
+top: 337.17px;
+
+background: #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path16 */
+
+position: absolute;
+width: 191.06px;
+height: 54.96px;
+left: 749px;
+top: 337.17px;
+
+background: #A6A6A6;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g18 */
+
+position: absolute;
+left: 66.19%;
+right: 33.11%;
+top: 78.19%;
+bottom: 19.5%;
+
+
+
+/* path20 */
+
+position: absolute;
+width: 8.58px;
+height: 8.62px;
+left: 807.53px;
+top: 291.64px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g22 */
+
+position: absolute;
+left: 67.02%;
+right: 32.57%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path24 */
+
+position: absolute;
+width: 4.96px;
+height: 8.24px;
+left: 817.68px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g26 */
+
+position: absolute;
+left: 67.52%;
+right: 32%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path28 */
+
+position: absolute;
+width: 5.83px;
+height: 8.24px;
+left: 823.77px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g30 */
+
+position: absolute;
+left: 68.35%;
+right: 31.56%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path32 */
+
+position: absolute;
+width: 1.09px;
+height: 8.24px;
+left: 833.83px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g34 */
+
+position: absolute;
+left: 68.55%;
+right: 30.97%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path36 */
+
+position: absolute;
+width: 5.84px;
+height: 8.24px;
+left: 836.29px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g38 */
+
+position: absolute;
+left: 69.32%;
+right: 29.96%;
+top: 78.19%;
+bottom: 19.5%;
+
+
+
+/* path40 */
+
+position: absolute;
+width: 8.73px;
+height: 8.62px;
+left: 845.7px;
+top: 291.64px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* g42 */
+
+position: absolute;
+left: 70.16%;
+right: 29.3%;
+top: 78.24%;
+bottom: 19.55%;
+
+
+
+/* path44 */
+
+position: absolute;
+width: 6.54px;
+height: 8.24px;
+left: 855.96px;
+top: 291.83px;
+
+background: #FFFFFF;
+border: 0.16px solid #FFFFFF;
+
+
+/* path46 */
+
+position: absolute;
+width: 119.99px;
+height: 23.4px;
+left: 807.08px;
+top: 329.02px;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g48 */
+
+position: absolute;
+left: 62.55%;
+right: 35.95%;
+top: 87.64%;
+bottom: 3.12%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path64 */
+
+position: absolute;
+width: 18.3px;
+height: 34.44px;
+left: 763.11px;
+top: 326.91px;
+
+background: linear-gradient(207.28deg, #00A0FF 6.17%, #00A1FF 6.75%, #00BEFF 29.14%, #00D2FF 51.41%, #00DFFF 73.34%, #00E3FF 94.51%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g66 */
+
+position: absolute;
+left: 64.05%;
+right: 34.77%;
+top: 84.6%;
+bottom: 12.25%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path78 */
+
+position: absolute;
+width: 14.38px;
+height: 11.75px;
+left: 781.41px;
+top: 315.57px;
+
+background: linear-gradient(270deg, #FFE000 -7.59%, #FFBD00 89.72%, #FFA500 177.02%, #FF9C00 230.49%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g80 */
+
+position: absolute;
+left: 62.6%;
+right: 35.46%;
+top: 87.76%;
+bottom: 7.5%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path88 */
+
+position: absolute;
+width: 23.62px;
+height: 17.67px;
+left: 763.77px;
+top: 327.36px;
+
+background: linear-gradient(232.38deg, #FF3A44 59.07%, #C31162 213.09%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* g90 */
+
+position: absolute;
+left: 62.6%;
+right: 35.46%;
+top: 83.03%;
+bottom: 12.24%;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* path104 */
+
+position: absolute;
+width: 23.62px;
+height: 17.67px;
+left: 763.77px;
+top: 309.69px;
+
+background: linear-gradient(127.61deg, #32A071 -77.71%, #2DA771 -73%, #15CF74 -44.95%, #06E775 -22.62%, #00F076 -8.92%);
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* phone-in-hand 1 */
+
+position: absolute;
+width: 425px;
+height: 397px;
+left: -9px;
+top: 17px;
+
+background: url(phone-in-hand.png);
+
